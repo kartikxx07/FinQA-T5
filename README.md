@@ -1,1 +1,1 @@
-# finance-qanda-transformer
+# FinQA-T5
