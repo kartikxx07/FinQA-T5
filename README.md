@@ -1,4 +1,13 @@
 # FinQA-T5
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-orange?logo=huggingface&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&logo=PyTorch&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-low--rank%20adaptation-blue)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?&logo=plotly&logoColor=blue)
+![HuggingFace](https://img.shields.io/badge/🤗-HuggingFace-yellow)
+![Topic Modeling](https://img.shields.io/badge/Topic%20Modeling-NLP-green)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Finance 500K – Data Analysis, Topic Modeling & Transformer Training
 
